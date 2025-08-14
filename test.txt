@@ -1,3 +1,5 @@
 test test
 ikinci deneme 
-test deneme bilmem kaççççç
+
+master üçüncü deneme
+
